@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-**Team:** Pablo Posada · Samuel Salazar · Maria Fernanda Alvarez  
+**Team:** Maria Fernanda Alvarez  
 **Course:** Introduction to Artificial Intelligence
 
 ---
