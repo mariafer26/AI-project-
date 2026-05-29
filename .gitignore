@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+data/
+reports/figures/
+reports/metrics.json
+models/
+*.pdf
+.DS_Store
