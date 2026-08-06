@@ -86,4 +86,4 @@ finalproject/
 
 ## AI Usage Statement
 
-Claude (Anthropic) was used to assist with code generation, debugging, and documentation. All code was reviewed and validated by the team. The team is fully responsible for understanding and explaining all submitted work.
+Claude (Anthropic) was used to assist with code generation, debugging, and documentation. All code was reviewed and validated by me.
